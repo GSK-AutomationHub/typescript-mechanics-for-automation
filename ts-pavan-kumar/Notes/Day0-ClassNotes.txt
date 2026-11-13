@@ -67,24 +67,7 @@ That gives Microsoft all the freedom in the world to make TypeScript as feature-
 
 =======================================
 
-What you will get
----------------
-1) Class Notes, Docs or pdfs
-2) Recorded video access
-3) Class demos/scripts
 
-
-Logistics
------------
-GoogleDrive
-Zoom Link
-
-Class Schedule :  Weekly 4 sessions
-						Mon-Thurs( India)
-						Sun-Wed( Other locations)
-				
-				Class duration:	1.5 hours(last 15 mins Q & A) 
-				Everyday practice : 1-2 hours
 
 
 
